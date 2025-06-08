@@ -1,6 +1,3 @@
-# CoffeeMetrics
-CoffeeMetrics is a data analytics dashboard and reporting system designed to analyze coffee order trends from a café or retail chain.
-
 # ☕ CoffeeMetrics
 
 **CoffeeMetrics** is a data analysis and visualization project built in Excel to uncover insights from coffee order data. It is designed for cafés, coffee shops, or retail chains to better understand customer behavior, product trends, and revenue performance.
