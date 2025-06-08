@@ -57,7 +57,7 @@ This project analyzes historical coffee order data to:
 
 
 ## Dashboard:
-![Excel_Dashboard_Screenshot]([https://ik.imagekit.io/rmlbayysp/1749284455883-ss_wpk3-r4NB.png](https://github.com/user-attachments/assets/bf2f80f9-8c8f-4476-8d91-8a73db7c3def))
+![Excel_Dashboard_Screenshot](https://ik.imagekit.io/rmlbayysp/1749364051275-Screenshot_2025-06-08_115428_PbySUFIuvv.png)
 
 
 
