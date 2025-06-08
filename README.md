@@ -24,6 +24,7 @@ This project analyzes historical coffee order data to:
 
 
 
+
 ## 📌 Key Features
 
 - 📈 **Interactive Dashboards**: Built with pivot tables and slicers for dynamic filtering
